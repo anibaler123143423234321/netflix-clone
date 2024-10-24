@@ -2,7 +2,7 @@
 
 import { cn } from "@/lib/utils";
 import { BellRing, Search } from "lucide-react";
-import { Logo } from "../Logo";
+import { Logo } from "../../Logo";
 import { itemsNavbar } from "@/data/itemsNavbar";
 import Link from "next/link";
 import { useScrollPosition } from "@/hooks/useScrollPosition";

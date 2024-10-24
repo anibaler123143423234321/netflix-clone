@@ -1,5 +1,5 @@
 import { BellRing, Menu, Search } from "lucide-react";
-import { Logo } from "../Logo";
+import { Logo } from "../../Logo";
 import { Sheet, SheetContent, SheetTrigger } from "@/components/ui/sheet";
 import { itemsNavbar } from "@/data/itemsNavbar";
 import Link from "next/link";
